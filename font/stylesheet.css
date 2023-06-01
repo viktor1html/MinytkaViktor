@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Geologica';
+    src: url('Geologica-Regular.eot');
+    src: url('Geologica-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Geologica-Regular.woff2') format('woff2'),
+        url('Geologica-Regular.woff') format('woff'),
+        url('Geologica-Regular.ttf') format('truetype'),
+        url('Geologica-Regular.svg#Geologica-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
