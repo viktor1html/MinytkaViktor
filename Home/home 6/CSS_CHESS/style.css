@@ -1,0 +1,14 @@
+table.select {border-collapse: collapse;}
+ 
+ table.select td {width: 40px; height: 40px; border: solid gray 1px;}
+ 
+ tr:nth-child(even) td:nth-child(even),
+ tr:nth-child(odd) td:nth-child(odd) { background-color: #000000;}
+ 
+ .select tr:first-child td,
+ .select tr:last-child td {background-color: #6fdd6f;height: 25px;}
+ 
+ tr:nth-child(even) td:first-child,
+ tr:nth-child(odd) td:first-child,
+ tr:nth-child(even) td:last-child,
+ tr:nth-child(odd) td:last-child { background-color: #6fdd6f; width: 25px; }
