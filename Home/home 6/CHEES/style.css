@@ -1,0 +1,11 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{ margin: 30px;}
+.select2{color: green;}
+.select3{color: red;}
+a{color: blue; font-weight: bold;}
+.select4{color: rgb(7, 51, 245);
+font-style:italic;}
+[href^='https']::before {
+content: url(extref.png);}

@@ -1,0 +1,16 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{ margin: 20px; float: left;}
+
+div{display: inline-block;
+width: 75px;height: 78px;
+float: right;
+
+
+}
+.zvezda {background: url(star0.png);}
+
+.zvezda:hover~.zvezda{background: url(star1.png);}
+.zvezda:hover{background: url(star1.png);}
