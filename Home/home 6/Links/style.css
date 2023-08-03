@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+ body {margin: 40px 0 0 35px}
+div {margin-bottom:  25px;}
+a {color: green; padding: 5px 10px 10px 10px;}
+a:hover{color: red;}
+.options1 a {border-right: solid red; 2px}
+.options1 a:last-child{border-right: none;}
+
+ .options2 ul{ display: flex;}
+ .options2 li {list-style-image: url(/foto/line.gif);padding: 10px;}
+ .options2 li:first-child{list-style: none;}
+ .options2 li:first-child  { display: block; padding-top: 15px;}
