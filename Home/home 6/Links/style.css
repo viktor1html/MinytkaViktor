@@ -6,7 +6,7 @@ box-sizing: border-box;
 div {margin-bottom:  25px;}
 a {color: green; padding: 5px 10px 10px 10px;}
 a:hover{color: red;}
-.options1 a {border-right: solid red; 2px}
+.options1 a {border-right: solid red; 2px;}
 .options1 a:last-child{border-right: none;}
 
  .options2 ul{ display: flex;}
